@@ -1,4 +1,4 @@
 - 👋 Olá, me chamo Otavio Costa
 - 📚 Estou cursando Engenharia da Computação
-- 🌱 Atualmente estou estudando a linguagem Python para Back-End
+- 🌱 Atualmente estou estudando a linguagem Python para Analise e Ciência de Dados.
 - 📫 Entre em contato pelo meu e-mail: dev.otaviocostao@gmail.com
