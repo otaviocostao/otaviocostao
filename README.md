@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Otavio Costa</h1>
+<h1 align="center">Olá 👋, me chamo Otavio Costa</h1>
 <h3 align="center">Desenvolvedor Backend com foco em Java & Spring Boot | Estudante de Engenharia da Computação</h3>
 
 <br>
@@ -14,8 +14,8 @@
 - 📫 Aberto para novas oportunidades e conexões! Entre em contato:
 
 <p align="left">
-<a href="mailto:dev.otaviocostao@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6523/6523030.png" alt="dev.otaviocostao" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/otaviocostao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Otavio Costa" height="30" width="40" /></a>
+<a href="mailto:dev.otaviocostao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dev.otaviocostao" height="90" width="90" /></a>
+<a href="https://www.linkedin.com/in/otaviocostao/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" alt="Otavio Costa" height="80" width="90" /></a>
 </p>
 
 <br>
