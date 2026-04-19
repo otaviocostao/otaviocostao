@@ -11,11 +11,11 @@
 
 - 🎯 Busco minha **primeira oportunidade** como Desenvolvedor Júnior ou estagiário  para aplicar minhas habilidades, aprender com uma equipe experiente e contribuir para projetos desafiadores.
 
-- 📫 Aberto para novas oportunidades e conexões! Entre em contato:
+- 📫 Entre em contato:
 
 <p align="left">
-<a href="mailto:dev.otaviocostao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dev.otaviocostao" height="90" width="90" /></a>
-<a href="https://www.linkedin.com/in/otaviocostao/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" alt="Otavio Costa" height="80" width="90" /></a>
+<a href="mailto:dev.otaviocostao@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dev.otaviocostao" width="90" /></a>
+<a href="https://www.linkedin.com/in/otaviocostao/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" alt="Otavio Costa" width="90" /></a>
 </p>
 
 <br>
