@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Otavio Costa</h1>
-<h3 align="center">Desenvolvedor Backend com foco em Java & Spring Boot | Estudante de Engenharia da Computação</h3>
+<h3 align="center">Desenvolvedor Full-Stack e Estudante de Engenharia da Computação</h3>
 
 <br>
 
@@ -7,7 +7,7 @@
 
 - 🎓 Cursando **Engenharia da Computação** no Centro Universitário Nobre (UNIFAN).
 
-- 🌱 Atualmente, estou aprofundando meus conhecimentos no ecossistema **Java com Spring Boot** para construir APIs robustas e escaláveis.
+- 🌱 Atualmente, estou trabalhando com PHP e Yii na *Conexa*.
 
 - 🎯 Busco minha **primeira oportunidade** como Desenvolvedor Júnior ou estagiário  para aplicar minhas habilidades, aprender com uma equipe experiente e contribuir para projetos desafiadores.
 
@@ -78,19 +78,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
     </td>
   </tr>
 </table>
-
-<br>
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=otaviocostao&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Estatísticas do Otavio Costa" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocostao&layout=compact&theme=vision-friendly-dark" />
-  </a>
-</p>
 
 <br>
 
